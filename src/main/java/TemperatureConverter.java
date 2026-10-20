@@ -4,4 +4,8 @@ public class TemperatureConverter {
         return (celsius * 9.0 / 5.0) + 32;
     }
 
+    public double fahrenheitToCelsius(double fahrenheit) {
+        return 0.0;
+    }
+
 }
